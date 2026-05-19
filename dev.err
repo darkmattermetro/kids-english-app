@@ -1,0 +1,24 @@
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+Error: [31m  Failed to scan for dependencies from entries:
+  E:/opencodetest/Children app/kids-english-app/index.html
+
+  [39m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe JSX syntax extension is not currently enabled[0m
+
+    src/subjects/english/index.js:4:34:
+[37m      4 │ const AlphabetPlaceholder = () => [32m<[37mdiv>Alphabet Placeholder</div>;
+        ╵                                   [32m^[0m
+
+  The esbuild loader for this file is currently set to "js" but it must be set to "jsx" to be able to parse JSX syntax. You can use "loader: { '.js': 'jsx' }" to do that.
+
+
+    at failureErrorWithLog (E:\opencodetest\Children app\node_modules\esbuild\lib\main.js:1472:15)
+    at E:\opencodetest\Children app\node_modules\esbuild\lib\main.js:945:25
+    at runOnEndCallbacks (E:\opencodetest\Children app\node_modules\esbuild\lib\main.js:1315:45)
+    at buildResponseToResult (E:\opencodetest\Children app\node_modules\esbuild\lib\main.js:943:7)
+    at E:\opencodetest\Children app\node_modules\esbuild\lib\main.js:955:9
+    at new Promise (<anonymous>)
+    at requestCallbacks.on-end (E:\opencodetest\Children app\node_modules\esbuild\lib\main.js:954:54)
+    at handleRequest (E:\opencodetest\Children app\node_modules\esbuild\lib\main.js:647:17)
+    at handleIncomingPacket (E:\opencodetest\Children app\node_modules\esbuild\lib\main.js:672:7)
+    at Socket.readFromStdout (E:\opencodetest\Children app\node_modules\esbuild\lib\main.js:600:7)
+^C

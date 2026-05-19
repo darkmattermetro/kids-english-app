@@ -11,3 +11,5 @@ Thumbs.db
 
 # Allow package-lock.json (it's committed for reliable installs)
 # Node modules
+
+.vercel

@@ -1,0 +1,148 @@
+{
+  "categories": [
+    {
+      "id": "colors",
+      "name": "Colors",
+      "icon": "🎨",
+      "description": "Learn the colors of the rainbow!",
+      "themeColor": "coralRed",
+      "words": [
+        { "word": "Red", "emoji": "🔴", "sentence": "The apple is red." },
+        { "word": "Blue", "emoji": "🔵", "sentence": "The sky is blue." },
+        { "word": "Yellow", "emoji": "🟡", "sentence": "The sun is yellow." },
+        { "word": "Green", "emoji": "🟢", "sentence": "The grass is green." },
+        { "word": "Orange", "emoji": "🟠", "sentence": "The orange is orange." },
+        { "word": "Pink", "emoji": "🩷", "sentence": "The flower is pink." },
+        { "word": "Purple", "emoji": "🟣", "sentence": "The grapes are purple." },
+        { "word": "White", "emoji": "⚪", "sentence": "The cloud is white." },
+        { "word": "Black", "emoji": "⚫", "sentence": "The cat is black." },
+        { "word": "Brown", "emoji": "🟤", "sentence": "The dog is brown." }
+      ]
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "icon": "🐾",
+      "description": "Meet the animals!",
+      "themeColor": "skyGreen",
+      "words": [
+        { "word": "Cat", "emoji": "🐱", "sentence": "The cat says meow." },
+        { "word": "Dog", "emoji": "🐶", "sentence": "The dog says woof." },
+        { "word": "Cow", "emoji": "🐄", "sentence": "The cow gives milk." },
+        { "word": "Elephant", "emoji": "🐘", "sentence": "The elephant is big." },
+        { "word": "Lion", "emoji": "🦁", "sentence": "The lion is the king." },
+        { "word": "Monkey", "emoji": "🐒", "sentence": "The monkey eats bananas." },
+        { "word": "Bird", "emoji": "🐦", "sentence": "The bird flies high." },
+        { "word": "Fish", "emoji": "🐟", "sentence": "The fish swims in water." },
+        { "word": "Rabbit", "emoji": "🐰", "sentence": "The rabbit hops fast." },
+        { "word": "Tiger", "emoji": "🐅", "sentence": "The tiger has stripes." }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food & Drinks",
+      "icon": "🍎",
+      "description": "Yummy things to eat and drink!",
+      "themeColor": "warmYellow",
+      "words": [
+        { "word": "Apple", "emoji": "🍎", "sentence": "I eat an apple every day." },
+        { "word": "Banana", "emoji": "🍌", "sentence": "The banana is yellow." },
+        { "word": "Mango", "emoji": "🥭", "sentence": "Mango is my favourite fruit." },
+        { "word": "Rice", "emoji": "🍚", "sentence": "We eat rice for lunch." },
+        { "word": "Milk", "emoji": "🥛", "sentence": "I drink milk in the morning." },
+        { "word": "Bread", "emoji": "🍞", "sentence": "I eat bread for breakfast." },
+        { "word": "Water", "emoji": "💧", "sentence": "I drink water every day." },
+        { "word": "Cake", "emoji": "🎂", "sentence": "I love birthday cake." },
+        { "word": "Chapati", "emoji": "🫓", "sentence": "We eat chapati for dinner." },
+        { "word": "Juice", "emoji": "🧃", "sentence": "I like apple juice." }
+      ]
+    },
+    {
+      "id": "body-parts",
+      "name": "My Body",
+      "icon": "🧍",
+      "description": "Parts of your amazing body!",
+      "themeColor": "softPurple",
+      "words": [
+        { "word": "Head", "emoji": "🗣️", "sentence": "I have a head." },
+        { "word": "Eyes", "emoji": "👀", "sentence": "I see with my eyes." },
+        { "word": "Ears", "emoji": "👂", "sentence": "I hear with my ears." },
+        { "word": "Nose", "emoji": "👃", "sentence": "I smell with my nose." },
+        { "word": "Mouth", "emoji": "👄", "sentence": "I eat with my mouth." },
+        { "word": "Hands", "emoji": "✋", "sentence": "I wave with my hands." },
+        { "word": "Feet", "emoji": "🦶", "sentence": "I walk with my feet." },
+        { "word": "Teeth", "emoji": "🦷", "sentence": "I brush my teeth." },
+        { "word": "Tongue", "emoji": "👅", "sentence": "I taste with my tongue." },
+        { "word": "Fingers", "emoji": "🖐️", "sentence": "I have ten fingers." }
+      ]
+    },
+    {
+      "id": "clothes",
+      "name": "Clothes",
+      "icon": "👕",
+      "description": "What do you wear today?",
+      "themeColor": "coralRed",
+      "words": [
+        { "word": "Shirt", "emoji": "👕", "sentence": "I wear a blue shirt." },
+        { "word": "Pants", "emoji": "👖", "sentence": "These are my pants." },
+        { "word": "Shoes", "emoji": "👟", "sentence": "I tie my shoes." },
+        { "word": "Socks", "emoji": "🧦", "sentence": "I wear socks at home." },
+        { "word": "Hat", "emoji": "🧢", "sentence": "I wear a hat in the sun." },
+        { "word": "Dress", "emoji": "👗", "sentence": "She wears a pretty dress." },
+        { "word": "Jacket", "emoji": "🧥", "sentence": "I wear a jacket when cold." },
+        { "word": "Sweater", "emoji": "🪡", "sentence": "The sweater is warm." }
+      ]
+    },
+    {
+      "id": "toys",
+      "name": "Toys & Play",
+      "icon": "🧸",
+      "description": "Things we play with!",
+      "themeColor": "warmYellow",
+      "words": [
+        { "word": "Ball", "emoji": "⚽", "sentence": "I throw the ball." },
+        { "word": "Doll", "emoji": "🪆", "sentence": "I play with my doll." },
+        { "word": "Blocks", "emoji": "🧱", "sentence": "I build with blocks." },
+        { "word": "Car", "emoji": "🚗", "sentence": "I push the toy car." },
+        { "word": "Kite", "emoji": "🪁", "sentence": "The kite flies high." },
+        { "word": "Puzzle", "emoji": "🧩", "sentence": "I solve the puzzle." },
+        { "word": "Bicycle", "emoji": "🚲", "sentence": "I ride my bicycle." },
+        { "word": "Teddy Bear", "emoji": "🧸", "sentence": "I hug my teddy bear." }
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "icon": "🌿",
+      "description": "The beautiful world outside!",
+      "themeColor": "skyGreen",
+      "words": [
+        { "word": "Sun", "emoji": "☀️", "sentence": "The sun is bright." },
+        { "word": "Moon", "emoji": "🌙", "sentence": "The moon shines at night." },
+        { "word": "Star", "emoji": "⭐", "sentence": "I see a star in the sky." },
+        { "word": "Rain", "emoji": "🌧️", "sentence": "I love playing in the rain." },
+        { "word": "Tree", "emoji": "🌳", "sentence": "The tree gives us shade." },
+        { "word": "Flower", "emoji": "🌸", "sentence": "The flower is beautiful." },
+        { "word": "River", "emoji": "🏞️", "sentence": "The river flows to the sea." },
+        { "word": "Mountain", "emoji": "⛰️", "sentence": "The mountain is very high." }
+      ]
+    },
+    {
+      "id": "school",
+      "name": "School",
+      "icon": "📚",
+      "description": "Things we use at school!",
+      "themeColor": "softPurple",
+      "words": [
+        { "word": "Book", "emoji": "📕", "sentence": "I read my book." },
+        { "word": "Pencil", "emoji": "✏️", "sentence": "I write with a pencil." },
+        { "word": "Bag", "emoji": "🎒", "sentence": "I carry my school bag." },
+        { "word": "Teacher", "emoji": "👩‍🏫", "sentence": "My teacher is kind." },
+        { "word": "Desk", "emoji": "🪑", "sentence": "I sit at my desk." },
+        { "word": "Board", "emoji": "🖥️", "sentence": "The teacher writes on the board." },
+        { "word": "Crayon", "emoji": "🖍️", "sentence": "I colour with crayons." },
+        { "word": "Friend", "emoji": "🤝", "sentence": "I play with my friend." }
+      ]
+    }
+  ]
+}

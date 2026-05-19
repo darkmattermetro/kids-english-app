@@ -1,0 +1,75 @@
+{
+  "groups": [
+    {
+      "id": "short-vowels",
+      "name": "Short Vowels",
+      "description": "The short sounds of a, e, i, o, u",
+      "icon": "🔊",
+      "themeColor": "coralRed",
+      "sounds": [
+        { "letter": "a", "phoneme": "/æ/", "example": "apple", "emoji": "🍎", "tip": "Open your mouth wide: a-a-apple" },
+        { "letter": "e", "phoneme": "/e/", "example": "egg", "emoji": "🥚", "tip": "Short and quick: e-e-egg" },
+        { "letter": "i", "phoneme": "/ɪ/", "example": "igloo", "emoji": "🏠", "tip": "Tiny sound: i-i-igloo" },
+        { "letter": "o", "phoneme": "/ɒ/", "example": "orange", "emoji": "🍊", "tip": "Round your lips: o-o-orange" },
+        { "letter": "u", "phoneme": "/ʌ/", "example": "umbrella", "emoji": "☂️", "tip": "Short and soft: u-u-umbrella" }
+      ]
+    },
+    {
+      "id": "consonants",
+      "name": "Consonants",
+      "description": "Common consonant sounds",
+      "icon": "🔤",
+      "themeColor": "skyGreen",
+      "sounds": [
+        { "letter": "b", "phoneme": "/b/", "example": "ball", "emoji": "⚽", "tip": "Press your lips together: b-b-ball" },
+        { "letter": "c", "phoneme": "/k/", "example": "cat", "emoji": "🐱", "tip": "Hard sound from your throat: c-c-cat" },
+        { "letter": "d", "phoneme": "/d/", "example": "dog", "emoji": "🐶", "tip": "Tap your tongue: d-d-dog" },
+        { "letter": "f", "phoneme": "/f/", "example": "fish", "emoji": "🐟", "tip": "Bite your lip: f-f-fish" },
+        { "letter": "g", "phoneme": "/ɡ/", "example": "goat", "emoji": "🐐", "tip": "Sound from your throat: g-g-goat" },
+        { "letter": "h", "phoneme": "/h/", "example": "hat", "emoji": "🧢", "tip": "Whisper sound: h-h-hat" },
+        { "letter": "j", "phoneme": "/dʒ/", "example": "jug", "emoji": "🏺", "tip": "Small jump sound: j-j-jug" },
+        { "letter": "m", "phoneme": "/m/", "example": "mango", "emoji": "🥭", "tip": "Close your lips: m-m-mango" },
+        { "letter": "n", "phoneme": "/n/", "example": "nest", "emoji": "🪺", "tip": "Tongue to the roof: n-n-nest" },
+        { "letter": "p", "phoneme": "/p/", "example": "pen", "emoji": "🖊️", "tip": "Pop your lips open: p-p-pen" },
+        { "letter": "r", "phoneme": "/r/", "example": "rabbit", "emoji": "🐰", "tip": "Curve your tongue: r-r-rabbit" },
+        { "letter": "s", "phoneme": "/s/", "example": "sun", "emoji": "☀️", "tip": "Like a snake: s-s-sun" },
+        { "letter": "t", "phoneme": "/t/", "example": "top", "emoji": "🪀", "tip": "Quick tap: t-t-top" },
+        { "letter": "v", "phoneme": "/v/", "example": "van", "emoji": "🚐", "tip": "Bite your lip gently: v-v-van" },
+        { "letter": "w", "phoneme": "/w/", "example": "water", "emoji": "💧", "tip": "Pucker your lips: w-w-water" },
+        { "letter": "z", "phoneme": "/z/", "example": "zebra", "emoji": "🦓", "tip": "Buzz like a bee: z-z-zebra" }
+      ]
+    },
+    {
+      "id": "digraphs",
+      "name": "Digraphs",
+      "description": "Two letters making one sound",
+      "icon": "🔗",
+      "themeColor": "warmYellow",
+      "sounds": [
+        { "letter": "sh", "phoneme": "/ʃ/", "example": "ship", "emoji": "🚢", "tip": "Shhh like being quiet: sh-sh-ship" },
+        { "letter": "ch", "phoneme": "/tʃ/", "example": "chips", "emoji": "🍟", "tip": "Choo choo like a train: ch-ch-chips" },
+        { "letter": "th", "phoneme": "/θ/", "example": "three", "emoji": "3️⃣", "tip": "Stick out your tongue: th-th-three" },
+        { "letter": "th", "phoneme": "/ð/", "example": "this", "emoji": "👉", "tip": "Vibrate your tongue: th-th-this" },
+        { "letter": "ng", "phoneme": "/ŋ/", "example": "king", "emoji": "👑", "tip": "Sound through your nose: ng-ng-king" },
+        { "letter": "wh", "phoneme": "/w/", "example": "whale", "emoji": "🐋", "tip": "Blow air gently: wh-wh-whale" }
+      ]
+    },
+    {
+      "id": "long-vowels",
+      "name": "Long Vowels",
+      "description": "When a vowel says its name",
+      "icon": "📢",
+      "themeColor": "softPurple",
+      "sounds": [
+        { "letter": "a_e", "phoneme": "/eɪ/", "example": "cake", "emoji": "🎂", "tip": "The magic E makes A say its name!" },
+        { "letter": "e_e", "phoneme": "/iː/", "example": "tree", "emoji": "🌳", "tip": "Two Es make a long E sound!" },
+        { "letter": "i_e", "phoneme": "/aɪ/", "example": "kite", "emoji": "🪁", "tip": "The magic E makes I say its name!" },
+        { "letter": "o_e", "phoneme": "/oʊ/", "example": "home", "emoji": "🏠", "tip": "The magic E makes O say its name!" },
+        { "letter": "u_e", "phoneme": "/juː/", "example": "cube", "emoji": "🧊", "tip": "The magic E makes U say its name!" },
+        { "letter": "ai", "phoneme": "/eɪ/", "example": "rain", "emoji": "🌧️", "tip": "When A and I walk together, A does the talking!" },
+        { "letter": "ee", "phoneme": "/iː/", "example": "bee", "emoji": "🐝", "tip": "Two Es together say EEE!" },
+        { "letter": "oa", "phoneme": "/oʊ/", "example": "goat", "emoji": "🐐", "tip": "When O and A walk together, O does the talking!" }
+      ]
+    }
+  ]
+}
