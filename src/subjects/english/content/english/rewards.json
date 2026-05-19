@@ -1,0 +1,211 @@
+{
+  "badges": [
+    {
+      "id": "first-letter",
+      "name": "First Letter",
+      "emoji": "🔤",
+      "description": "Complete your first alphabet letter",
+      "requirement": "Complete 1 letter in Alphabet Adventure",
+      "maxProgress": 1,
+      "trackerKey": "alphabet"
+    },
+    {
+      "id": "abc-star",
+      "name": "ABC Star",
+      "emoji": "⭐",
+      "description": "Complete 5 alphabet letters!",
+      "requirement": "Complete 5 letters in Alphabet Adventure",
+      "maxProgress": 5,
+      "trackerKey": "alphabet"
+    },
+    {
+      "id": "alphabet-master",
+      "name": "Alphabet Master",
+      "emoji": "👑",
+      "description": "Complete all 26 letters!",
+      "requirement": "Complete all 26 letters of the alphabet",
+      "maxProgress": 26,
+      "trackerKey": "alphabet"
+    },
+    {
+      "id": "word-learner",
+      "name": "Word Learner",
+      "emoji": "📖",
+      "description": "Learn 10 vocabulary words",
+      "requirement": "Learn 10 words in Vocabulary Builder",
+      "maxProgress": 10,
+      "trackerKey": "vocabulary"
+    },
+    {
+      "id": "vocab-star",
+      "name": "Vocab Star",
+      "emoji": "🌟",
+      "description": "Learn 30 vocabulary words!",
+      "requirement": "Learn 30 words in Vocabulary Builder",
+      "maxProgress": 30,
+      "trackerKey": "vocabulary"
+    },
+    {
+      "id": "sound-star",
+      "name": "Sound Star",
+      "emoji": "🔊",
+      "description": "Learn 5 phonics sounds",
+      "requirement": "Complete 5 sounds in Phonics World",
+      "maxProgress": 5,
+      "trackerKey": "phonics"
+    },
+    {
+      "id": "phonics-master",
+      "name": "Phonics Master",
+      "emoji": "🎯",
+      "description": "Learn 20 phonics sounds!",
+      "requirement": "Complete 20 sounds in Phonics World",
+      "maxProgress": 20,
+      "trackerKey": "phonics"
+    },
+    {
+      "id": "speaker",
+      "name": "Little Speaker",
+      "emoji": "🎤",
+      "description": "Practice 10 speaking phrases",
+      "requirement": "Practice 10 phrases in Speaking Practice",
+      "maxProgress": 10,
+      "trackerKey": "speaking"
+    },
+    {
+      "id": "chat-star",
+      "name": "Chat Star",
+      "emoji": "💬",
+      "description": "Practice 20 speaking phrases!",
+      "requirement": "Practice 20 phrases in Speaking Practice",
+      "maxProgress": 20,
+      "trackerKey": "speaking"
+    },
+    {
+      "id": "story-time",
+      "name": "Story Time",
+      "emoji": "📚",
+      "description": "Read your first story!",
+      "requirement": "Read 1 story in Reading Stories",
+      "maxProgress": 1,
+      "trackerKey": "stories"
+    },
+    {
+      "id": "bookworm",
+      "name": "Bookworm",
+      "emoji": "🐛",
+      "description": "Read all stories!",
+      "requirement": "Read all 5 stories in Reading Stories",
+      "maxProgress": 5,
+      "trackerKey": "stories"
+    },
+    {
+      "id": "sentence-builder",
+      "name": "Sentence Builder",
+      "emoji": "🧩",
+      "description": "Build 5 sentences!",
+      "requirement": "Complete 5 sentence exercises",
+      "maxProgress": 5,
+      "trackerKey": "sentences"
+    },
+    {
+      "id": "sentence-master",
+      "name": "Sentence Master",
+      "emoji": "🏗️",
+      "description": "Build all 10 sentences!",
+      "requirement": "Complete all sentence exercises",
+      "maxProgress": 10,
+      "trackerKey": "sentences"
+    },
+    {
+      "id": "emotion-explorer",
+      "name": "Emotion Explorer",
+      "emoji": "😊",
+      "description": "Learn 4 emotions!",
+      "requirement": "Complete 4 emotions in Emotion Lab",
+      "maxProgress": 4,
+      "trackerKey": "emotions"
+    },
+    {
+      "id": "emotion-master",
+      "name": "Emotion Master",
+      "emoji": "🎭",
+      "description": "Learn all 8 emotions!",
+      "requirement": "Complete all emotions in Emotion Lab",
+      "maxProgress": 8,
+      "trackerKey": "emotions"
+    },
+    {
+      "id": "writer",
+      "name": "Little Writer",
+      "emoji": "✏️",
+      "description": "Practice writing 10 letters",
+      "requirement": "Complete 10 letters in Writing Practice",
+      "maxProgress": 10,
+      "trackerKey": "writing"
+    },
+    {
+      "id": "writing-star",
+      "name": "Writing Star",
+      "emoji": "🖊️",
+      "description": "Practice writing 30 letters!",
+      "requirement": "Complete 30 letters in Writing Practice",
+      "maxProgress": 30,
+      "trackerKey": "writing"
+    },
+    {
+      "id": "game-player",
+      "name": "Game Player",
+      "emoji": "🎮",
+      "description": "Win your first memory game!",
+      "requirement": "Complete a Memory Game match",
+      "maxProgress": 1,
+      "trackerKey": "games"
+    },
+    {
+      "id": "game-champion",
+      "name": "Game Champion",
+      "emoji": "🏆",
+      "description": "Win 5 memory games!",
+      "requirement": "Complete 5 memory games",
+      "maxProgress": 5,
+      "trackerKey": "games"
+    },
+    {
+      "id": "super-star",
+      "name": "Super Star",
+      "emoji": "🌟",
+      "description": "Earn 50 stars across the app!",
+      "requirement": "Earn 50 total stars",
+      "maxProgress": 50,
+      "trackerKey": "stars"
+    },
+    {
+      "id": "coin-collector",
+      "name": "Coin Collector",
+      "emoji": "🪙",
+      "description": "Collect 500 coins!",
+      "requirement": "Earn 500 total coins",
+      "maxProgress": 500,
+      "trackerKey": "coins"
+    },
+    {
+      "id": "streak-beginner",
+      "name": "Streak Beginner",
+      "emoji": "🔥",
+      "description": "Come back 3 days in a row",
+      "requirement": "Maintain a 3-day streak",
+      "maxProgress": 3,
+      "trackerKey": "streak"
+    },
+    {
+      "id": "streak-star",
+      "name": "Streak Star",
+      "emoji": "🔥",
+      "description": "Come back 7 days in a row!",
+      "requirement": "Maintain a 7-day streak",
+      "maxProgress": 7,
+      "trackerKey": "streak"
+    }
+  ]
+}

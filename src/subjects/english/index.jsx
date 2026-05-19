@@ -8,14 +8,14 @@ import PhonicsGrid from './components/phonics/PhonicsGrid.jsx';
 import PhonicsDetailPage from './components/phonics/PhonicsDetailPage.jsx';
 import SpeakingGrid from './components/speaking/SpeakingGrid.jsx';
 import SpeakingPractice from './components/speaking/SpeakingPractice.jsx';
-
-const StoriesPlaceholder = () => <div>Stories Placeholder</div>;
-const SentencesPlaceholder = () => <div>Sentences Placeholder</div>;
-const EmotionsPlaceholder = () => <div>Emotions Placeholder</div>;
-const WritingPlaceholder = () => <div>Writing Placeholder</div>;
-const GamesPlaceholder = () => <div>Games Placeholder</div>;
-const RewardsPlaceholder = () => <div>Rewards Placeholder</div>;
-const ParentPlaceholder = () => <div>Parent Placeholder</div>;
+import StoriesGrid from './components/stories/StoriesGrid.jsx';
+import StoryReader from './components/stories/StoryReader.jsx';
+import SentencesGrid from './components/sentences/SentencesGrid.jsx';
+import EmotionsGrid from './components/emotions/EmotionsGrid.jsx';
+import WritingGrid from './components/writing/WritingGrid.jsx';
+import GamesHub from './components/games/GamesHub.jsx';
+import RewardsPage from './components/rewards/RewardsPage.jsx';
+import ParentDashboard from './components/parent/ParentDashboard.jsx';
 
 export const englishRoutes = [
   { path: '/alphabet', element: <AlphabetGrid /> },
@@ -27,11 +27,12 @@ export const englishRoutes = [
   { path: '/vocabulary/:categoryId', element: <VocabularyCategoryPage /> },
   { path: '/speaking', element: <SpeakingGrid /> },
   { path: '/speaking/:topicId', element: <SpeakingPractice /> },
-  { path: '/stories', element: <StoriesPlaceholder /> },
-  { path: '/sentences', element: <SentencesPlaceholder /> },
-  { path: '/emotions', element: <EmotionsPlaceholder /> },
-  { path: '/writing', element: <WritingPlaceholder /> },
-  { path: '/games', element: <GamesPlaceholder /> },
-  { path: '/rewards', element: <RewardsPlaceholder /> },
-  { path: '/parent', element: <ParentPlaceholder /> },
+  { path: '/stories', element: <StoriesGrid /> },
+  { path: '/stories/:storyId', element: <StoryReader /> },
+  { path: '/sentences', element: <SentencesGrid /> },
+  { path: '/emotions', element: <EmotionsGrid /> },
+  { path: '/writing', element: <WritingGrid /> },
+  { path: '/games', element: <GamesHub /> },
+  { path: '/rewards', element: <RewardsPage /> },
+  { path: '/parent', element: <ParentDashboard /> },
 ];

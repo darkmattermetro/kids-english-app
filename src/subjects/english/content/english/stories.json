@@ -1,0 +1,84 @@
+{
+  "stories": [
+    {
+      "id": "the-sun-and-the-moon",
+      "title": "The Sun and the Moon",
+      "icon": "☀️",
+      "level": "easy",
+      "themeColor": "warmYellow",
+      "words": ["Sun", "Moon", "day", "night", "play", "bright"],
+      "sentences": [
+        { "text": "The sun shines in the day.", "emoji": "☀️" },
+        { "text": "The sun says, \"Good morning!\"", "emoji": "🌅" },
+        { "text": "The moon comes at night.", "emoji": "🌙" },
+        { "text": "The moon says, \"Good night!\"", "emoji": "🌠" },
+        { "text": "The stars twinkle with the moon.", "emoji": "⭐" },
+        { "text": "We play in the day and sleep at night.", "emoji": "😴" }
+      ]
+    },
+    {
+      "id": "riya-and-her-cat",
+      "title": "Riya and Her Cat",
+      "icon": "🐱",
+      "level": "easy",
+      "themeColor": "coralRed",
+      "words": ["Riya", "cat", "milk", "play", "ball", "sleep"],
+      "sentences": [
+        { "text": "Riya has a little cat.", "emoji": "🐱" },
+        { "text": "The cat is white and soft.", "emoji": "🤍" },
+        { "text": "Riya gives milk to the cat.", "emoji": "🥛" },
+        { "text": "The cat plays with a ball.", "emoji": "⚽" },
+        { "text": "Riya loves her cat very much.", "emoji": "❤️" },
+        { "text": "The cat sleeps on Riya's bed.", "emoji": "🛏️" }
+      ]
+    },
+    {
+      "id": "the-little-seed",
+      "title": "The Little Seed",
+      "icon": "🌱",
+      "level": "medium",
+      "themeColor": "skyGreen",
+      "words": ["seed", "sun", "water", "plant", "grow", "flower"],
+      "sentences": [
+        { "text": "A little seed was in the soil.", "emoji": "🌱" },
+        { "text": "The sun gave it warmth.", "emoji": "☀️" },
+        { "text": "The rain gave it water.", "emoji": "🌧️" },
+        { "text": "The seed grew a small stem.", "emoji": "🌿" },
+        { "text": "Leaves came out of the stem.", "emoji": "🍃" },
+        { "text": "A beautiful flower bloomed!", "emoji": "🌸" }
+      ]
+    },
+    {
+      "id": "aakash-and-the-kite",
+      "title": "Aakash and the Kite",
+      "icon": "🪁",
+      "level": "medium",
+      "themeColor": "softPurple",
+      "words": ["kite", "fly", "sky", "string", "wind", "happy"],
+      "sentences": [
+        { "text": "Aakash has a new kite.", "emoji": "🪁" },
+        { "text": "The kite is orange and blue.", "emoji": "🟠" },
+        { "text": "Aakash runs with the kite.", "emoji": "🏃" },
+        { "text": "The wind blows the kite up.", "emoji": "💨" },
+        { "text": "The kite flies high in the sky.", "emoji": "☁️" },
+        { "text": "Aakash is very happy!", "emoji": "😊" }
+      ]
+    },
+    {
+      "id": "my-school",
+      "title": "My School",
+      "icon": "🏫",
+      "level": "easy",
+      "themeColor": "warmYellow",
+      "words": ["school", "teacher", "class", "play", "friend", "learn"],
+      "sentences": [
+        { "text": "I go to school every day.", "emoji": "🏫" },
+        { "text": "My teacher is very kind.", "emoji": "👩‍🏫" },
+        { "text": "I learn ABC in my class.", "emoji": "🔤" },
+        { "text": "I play with my friends.", "emoji": "🤝" },
+        { "text": "We sing songs together.", "emoji": "🎵" },
+        { "text": "I love my school!", "emoji": "❤️" }
+      ]
+    }
+  ]
+}

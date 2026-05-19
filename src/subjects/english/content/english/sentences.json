@@ -1,0 +1,104 @@
+{
+  "exercises": [
+    {
+      "id": "i-like",
+      "name": "I Like...",
+      "icon": "❤️",
+      "description": "Make sentences about things you like!",
+      "themeColor": "coralRed",
+      "scrambled": ["I", "like", "apples"],
+      "correct": "I like apples.",
+      "emoji": "🍎"
+    },
+    {
+      "id": "i-can",
+      "name": "I Can...",
+      "icon": "💪",
+      "description": "Tell what you can do!",
+      "themeColor": "skyGreen",
+      "scrambled": ["I", "can", "run", "fast"],
+      "correct": "I can run fast.",
+      "emoji": "🏃"
+    },
+    {
+      "id": "i-have",
+      "name": "I Have...",
+      "icon": "🎒",
+      "description": "Tell what you have!",
+      "themeColor": "warmYellow",
+      "scrambled": ["I", "have", "a", "red", "ball"],
+      "correct": "I have a red ball.",
+      "emoji": "🔴"
+    },
+    {
+      "id": "this-is",
+      "name": "This Is...",
+      "icon": "👉",
+      "description": "Point and say what things are!",
+      "themeColor": "softPurple",
+      "scrambled": ["This", "is", "my", "book"],
+      "correct": "This is my book.",
+      "emoji": "📕"
+    },
+    {
+      "id": "i-want",
+      "name": "I Want...",
+      "icon": "🙋",
+      "description": "Ask for what you want!",
+      "themeColor": "coralRed",
+      "scrambled": ["I", "want", "some", "water"],
+      "correct": "I want some water.",
+      "emoji": "💧"
+    },
+    {
+      "id": "i-see",
+      "name": "I See...",
+      "icon": "👀",
+      "description": "Tell what you see!",
+      "themeColor": "skyGreen",
+      "scrambled": ["I", "see", "a", "big", "elephant"],
+      "correct": "I see a big elephant.",
+      "emoji": "🐘"
+    },
+    {
+      "id": "the-is",
+      "name": "The ___ Is...",
+      "icon": "📝",
+      "description": "Describe things around you!",
+      "themeColor": "warmYellow",
+      "scrambled": ["The", "sky", "is", "blue"],
+      "correct": "The sky is blue.",
+      "emoji": "🔵"
+    },
+    {
+      "id": "i-like-to",
+      "name": "I Like To...",
+      "icon": "🎮",
+      "description": "Tell what you like to do!",
+      "themeColor": "softPurple",
+      "scrambled": ["I", "like", "to", "play", "outside"],
+      "correct": "I like to play outside.",
+      "emoji": "🌳"
+    },
+    {
+      "id": "my-favourite",
+      "name": "My Favourite",
+      "icon": "⭐",
+      "description": "Talk about your favourite things!",
+      "themeColor": "coralRed",
+      "scrambled": ["My", "favourite", "colour", "is", "green"],
+      "correct": "My favourite colour is green.",
+      "emoji": "🟢"
+    },
+    {
+      "id": "please-thankyou",
+      "name": "Polite Words",
+      "icon": "🙏",
+      "description": "Use kind words!",
+      "themeColor": "skyGreen",
+      "scrambled": ["Please", "give", "me", "the", "book"],
+      "correct": "Please give me the book.",
+      "emoji": "📚"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "emotions": [
+    {
+      "id": "happy",
+      "name": "Happy",
+      "emoji": "😊",
+      "description": "When you feel good and smile!",
+      "themeColor": "warmYellow",
+      "scenarios": [
+        "When you get a new toy",
+        "When you play with friends",
+        "When it is your birthday",
+        "When you eat your favourite food"
+      ],
+      "phrases": ["I am happy!", "I feel happy today!", "This makes me happy!"]
+    },
+    {
+      "id": "sad",
+      "name": "Sad",
+      "emoji": "😢",
+      "description": "When you feel like crying",
+      "themeColor": "softPurple",
+      "scenarios": [
+        "When your toy breaks",
+        "When you miss your mother",
+        "When you fall down",
+        "When your friend goes away"
+      ],
+      "phrases": ["I am sad.", "I feel sad today.", "I am feeling sad."]
+    },
+    {
+      "id": "excited",
+      "name": "Excited",
+      "emoji": "🎉",
+      "description": "When you can't wait for something!",
+      "themeColor": "coralRed",
+      "scenarios": [
+        "Before a birthday party",
+        "When going on a trip",
+        "When you get a surprise",
+        "On the first day of school"
+      ],
+      "phrases": ["I am so excited!", "I can't wait!", "This is exciting!"]
+    },
+    {
+      "id": "scared",
+      "name": "Scared",
+      "emoji": "😨",
+      "description": "When you are afraid of something",
+      "themeColor": "softPurple",
+      "scenarios": [
+        "When it is dark",
+        "When there is a loud noise",
+        "When you see a big dog",
+        "When you have a bad dream"
+      ],
+      "phrases": ["I am scared.", "I feel scared.", "Please help me!"]
+    },
+    {
+      "id": "angry",
+      "name": "Angry",
+      "emoji": "😠",
+      "description": "When something makes you upset",
+      "themeColor": "coralRed",
+      "scenarios": [
+        "When someone takes your toy",
+        "When you have to wait too long",
+        "When something is unfair",
+        "When you are told 'no'"
+      ],
+      "phrases": ["I am angry!", "I feel angry!", "That makes me angry!"]
+    },
+    {
+      "id": "surprised",
+      "name": "Surprised",
+      "emoji": "😲",
+      "description": "When something unexpected happens!",
+      "themeColor": "warmYellow",
+      "scenarios": [
+        "When you get a surprise gift",
+        "When someone jumps out to say boo!",
+        "When you see something amazing",
+        "When a friend visits suddenly"
+      ],
+      "phrases": ["Wow! I am surprised!", "That is surprising!", "Oh! I didn't expect that!"]
+    },
+    {
+      "id": "proud",
+      "name": "Proud",
+      "emoji": "🏆",
+      "description": "When you do something good!",
+      "themeColor": "skyGreen",
+      "scenarios": [
+        "When you finish your homework",
+        "When you tie your shoes by yourself",
+        "When you help someone",
+        "When you learn something new"
+      ],
+      "phrases": ["I am proud of myself!", "I did it!", "Good job, me!"]
+    },
+    {
+      "id": "loved",
+      "name": "Loved",
+      "emoji": "❤️",
+      "description": "When someone cares about you",
+      "themeColor": "coralRed",
+      "scenarios": [
+        "When your mother hugs you",
+        "When your father plays with you",
+        "When your grandparents visit",
+        "When your friend shares with you"
+      ],
+      "phrases": ["I feel loved.", "I love my family!", "This is love."]
+    }
+  ]
+}
