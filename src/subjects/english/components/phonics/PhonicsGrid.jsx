@@ -7,7 +7,7 @@ const PhonicsGrid = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/phonics.json')
+    loadJSON('/content/english/phonics.json')
       .then(setData)
       .catch(setError);
   }, []);
@@ -61,7 +61,6 @@ const PhonicsGrid = () => {
           >
             <div
               className="relative flex flex-col items-center justify-center p-6 rounded-xl bg-white shadow-md hover:shadow-lg transition-all duration-300 min-h-[140px] cursor-pointer transform hover:-translate-y-1"
-              style={{ minHeight: '64px' }}
             >
               <span className="text-5xl mb-3">{group.icon}</span>
               <span className="text-lg font-bold text-gray-800 text-center">{group.name}</span>

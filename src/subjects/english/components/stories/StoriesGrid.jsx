@@ -8,7 +8,7 @@ const StoriesGrid = () => {
   const [readStories, setReadStories] = useState([]);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/stories.json')
+    loadJSON('/content/english/stories.json')
       .then(setData)
       .catch(setError);
   }, []);

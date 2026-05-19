@@ -9,7 +9,7 @@ const EmotionsGrid = () => {
   const [selectedEmotion, setSelectedEmotion] = useState(null);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/emotions.json')
+    loadJSON('/content/english/emotions.json')
       .then(setData)
       .catch(setError);
   }, []);

@@ -14,7 +14,7 @@ const LetterDetailPage = () => {
   const [isCompleted, setIsCompleted] = useState(false);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/alphabet.json')
+    loadJSON('/content/english/alphabet.json')
       .then((json) => {
         const found = json.letters.find(
           (l) => l.letter === uppercaseLetter

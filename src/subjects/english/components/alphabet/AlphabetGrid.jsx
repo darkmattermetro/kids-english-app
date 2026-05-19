@@ -9,7 +9,7 @@ const AlphabetGrid = () => {
   const [completed, setCompleted] = useState([]);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/alphabet.json')
+    loadJSON('/content/english/alphabet.json')
       .then(setData)
       .catch(setError);
   }, []);

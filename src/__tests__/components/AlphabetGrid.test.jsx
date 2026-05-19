@@ -1,13 +1,11 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { render, screen } from '@testing-library/react';
 import { MemoryRouter } from 'react-router-dom';
-import { clearCache } from '../../subjects/english/utils/contentLoader.js';
 
 beforeEach(() => {
   vi.restoreAllMocks();
   global.fetch = vi.fn();
   localStorage.clear();
-  clearCache();
 });
 
 describe('AlphabetGrid', () => {

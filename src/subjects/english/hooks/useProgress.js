@@ -1,5 +1,4 @@
-import React from 'react';
-import { useAppContext } from '../../context/AppContext';
+import { useAppContext } from '../../../context/AppContext';
 
 export const useProgress = () => {
   const { addCoins, addStars } = useAppContext();

@@ -12,7 +12,7 @@ const PhonicsDetailPage = () => {
   const [completed, setCompleted] = useState([]);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/phonics.json')
+    loadJSON('/content/english/phonics.json')
       .then(setData)
       .catch(setError);
   }, []);
@@ -60,7 +60,7 @@ const PhonicsDetailPage = () => {
   }
 
   const handleSoundClick = (sound) => {
-    speak(`${sound.example}. ${sound.letter} says ${sound.phoneme}`, {
+    speak(`${sound.example}. ${sound.letter}`, {
       rate: 0.75,
       pitch: 1.0,
     });
@@ -100,7 +100,7 @@ const PhonicsDetailPage = () => {
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {group.sounds.map((sound) => (
           <PhonicsCard
-            key={sound.letter}
+            key={`${sound.letter}_${sound.phoneme}`}
             letter={sound.letter}
             phoneme={sound.phoneme}
             example={sound.example}

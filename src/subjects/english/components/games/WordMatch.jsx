@@ -34,8 +34,8 @@ const WordMatch = ({ onBack }) => {
 
   const handleWordClick = (item) => {
     if (matchedPairs.includes(item.word)) return;
-    setSelectedWord(item);
     if (!selectedEmoji) return;
+    setSelectedWord(item);
 
     if (selectedEmoji.word === item.word) {
       setMatchedPairs([...matchedPairs, item.word]);

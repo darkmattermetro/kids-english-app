@@ -13,7 +13,7 @@ const SentencesGrid = () => {
   const [feedback, setFeedback] = useState(null);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/sentences.json')
+    loadJSON('/content/english/sentences.json')
       .then(setData)
       .catch(setError);
   }, []);

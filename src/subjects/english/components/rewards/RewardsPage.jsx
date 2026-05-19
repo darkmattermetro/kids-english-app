@@ -9,7 +9,7 @@ const RewardsPage = () => {
   const [progress, setProgress] = useState({});
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/rewards.json')
+    loadJSON('/content/english/rewards.json')
       .then(setData)
       .catch(setError);
   }, []);

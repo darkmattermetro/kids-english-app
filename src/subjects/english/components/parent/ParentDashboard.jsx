@@ -29,6 +29,7 @@ const ParentDashboard = () => {
     { id: 'sentences', name: 'Sentence Builder', icon: '🧩', key: 'kidsEnglishSentencesProgress', total: 10 },
     { id: 'emotions', name: 'Emotion Lab', icon: '😊', key: 'kidsEnglishEmotionsProgress', total: 8 },
     { id: 'writing', name: 'Writing Practice', icon: '✏️', key: 'kidsEnglishWritingProgress', total: null },
+    { id: 'games', name: 'Games', icon: '🎮', key: 'kidsEnglishGamesProgress', total: null },
   ];
 
   return (

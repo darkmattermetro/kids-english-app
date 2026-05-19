@@ -1,8 +1,6 @@
 import { motion } from 'framer-motion';
 import { useAppContext } from '../context/AppContext';
 import { Link } from 'react-router-dom';
-import Mango from '../components/mascot/Mango.jsx';
-import { subjects } from '../subjects/index.js';
 
 const moduleColors = {
   warmYellow: { bg: 'rgba(255, 217, 61, 0.1)', border: '#FFD93D' },

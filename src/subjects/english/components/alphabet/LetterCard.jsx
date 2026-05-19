@@ -2,8 +2,8 @@ import { motion } from 'framer-motion';
 import { speak } from '../../utils/textToSpeech.js';
 
 const LetterCard = ({ data, isCompleted, onClick }) => {
-  const { letter, words, themeColor } = data;
-  const word = words[0];
+  const { letter, words } = data;
+  const word = words?.[0] || { word: '', emoji: '' };
 
   const handleClick = () => {
     speak(letter);

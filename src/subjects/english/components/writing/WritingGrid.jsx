@@ -10,7 +10,7 @@ const WritingGrid = () => {
   const [currentLetterIndex, setCurrentLetterIndex] = useState(0);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/writing.json')
+    loadJSON('/content/english/writing.json')
       .then(setData)
       .catch(setError);
   }, []);

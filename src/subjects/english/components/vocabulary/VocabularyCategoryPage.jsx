@@ -12,7 +12,7 @@ const VocabularyCategoryPage = () => {
   const [completed, setCompleted] = useState([]);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/vocabulary.json')
+    loadJSON('/content/english/vocabulary.json')
       .then(setData)
       .catch(setError);
   }, []);

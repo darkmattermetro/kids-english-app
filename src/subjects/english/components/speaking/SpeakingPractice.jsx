@@ -12,7 +12,7 @@ const SpeakingPractice = () => {
   const [completed, setCompleted] = useState([]);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/speaking.json')
+    loadJSON('/content/english/speaking.json')
       .then(setData)
       .catch(setError);
   }, []);

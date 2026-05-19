@@ -18,7 +18,7 @@ const AlphabetSong = () => {
   const timeoutRef = useRef(null);
 
   useEffect(() => {
-    loadJSON('/src/subjects/english/content/english/alphabet.json')
+    loadJSON('/content/english/alphabet.json')
       .then((data) => setLetters(data.letters || []))
       .catch(setError);
   }, []);
