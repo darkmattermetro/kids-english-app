@@ -1,0 +1,13 @@
+node_modules
+dist
+build
+.vite
+*.local
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Allow package-lock.json (it's committed for reliable installs)
+# Node modules
