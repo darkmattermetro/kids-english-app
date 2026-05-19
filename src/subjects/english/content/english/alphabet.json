@@ -1,0 +1,108 @@
+{
+  "letters": [
+    { "letter": "A", "uppercase": "A", "lowercase": "a", "phoneme": "/æ/", "sound_description": "short a as in apple", "words": [
+      { "word": "Apple", "emoji": "🍎", "sentence": "I eat an apple." },
+      { "word": "Ant", "emoji": "🐜", "sentence": "The ant is small." },
+      { "word": "Alligator", "emoji": "🐊", "sentence": "The alligator is green." } ], "themeColor": "coralRed" },
+    { "letter": "B", "uppercase": "B", "lowercase": "b", "phoneme": "/b/", "sound_description": "b as in ball", "words": [
+      { "word": "Ball", "emoji": "⚽", "sentence": "I play with a ball." },
+      { "word": "Banana", "emoji": "🍌", "sentence": "I like banana." },
+      { "word": "Butterfly", "emoji": "🦋", "sentence": "The butterfly is pretty." } ], "themeColor": "warmYellow" },
+    { "letter": "C", "uppercase": "C", "lowercase": "c", "phoneme": "/k/", "sound_description": "k as in cat", "words": [
+      { "word": "Cat", "emoji": "🐱", "sentence": "I have a cat." },
+      { "word": "Car", "emoji": "🚗", "sentence": "We go in the car." },
+      { "word": "Cake", "emoji": "🎂", "sentence": "I like cake." } ], "themeColor": "skyGreen" },
+    { "letter": "D", "uppercase": "D", "lowercase": "d", "phoneme": "/d/", "sound_description": "d as in dog", "words": [
+      { "word": "Dog", "emoji": "🐶", "sentence": "I have a dog." },
+      { "word": "Duck", "emoji": "🦆", "sentence": "The duck swims." },
+      { "word": "Drum", "emoji": "🥁", "sentence": "I play the drum." } ], "themeColor": "softPurple" },
+    { "letter": "E", "uppercase": "E", "lowercase": "e", "phoneme": "/e/", "sound_description": "short e as in egg", "words": [
+      { "word": "Egg", "emoji": "🥚", "sentence": "I eat an egg." },
+      { "word": "Elephant", "emoji": "🐘", "sentence": "The elephant is big." },
+      { "word": "Elbow", "emoji": "💪", "sentence": "I bend my elbow." } ], "themeColor": "warmYellow" },
+    { "letter": "F", "uppercase": "F", "lowercase": "f", "phoneme": "/f/", "sound_description": "f as in fish", "words": [
+      { "word": "Fish", "emoji": "🐟", "sentence": "The fish swims." },
+      { "word": "Flower", "emoji": "🌸", "sentence": "The flower is pretty." },
+      { "word": "Frog", "emoji": "🐸", "sentence": "The frog jumps." } ], "themeColor": "skyGreen" },
+    { "letter": "G", "uppercase": "G", "lowercase": "g", "phoneme": "/ɡ/", "sound_description": "g as in goat", "words": [
+      { "word": "Goat", "emoji": "🐐", "sentence": "The goat eats grass." },
+      { "word": "Grapes", "emoji": "🍇", "sentence": "I like grapes." },
+      { "word": "Guitar", "emoji": "🎸", "sentence": "I play the guitar." } ], "themeColor": "coralRed" },
+    { "letter": "H", "uppercase": "H", "lowercase": "h", "phoneme": "/h/", "sound_description": "h as in hat", "words": [
+      { "word": "Hat", "emoji": "🎩", "sentence": "I wear a hat." },
+      { "word": "Horse", "emoji": "🐴", "sentence": "The horse runs fast." },
+      { "word": "House", "emoji": "🏠", "sentence": "I live in a house." } ], "themeColor": "softPurple" },
+    { "letter": "I", "uppercase": "I", "lowercase": "i", "phoneme": "/ɪ/", "sound_description": "short i as in igloo", "words": [
+      { "word": "Igloo", "emoji": "🏔️", "sentence": "The igloo is made of ice." },
+      { "word": "Insect", "emoji": "🐛", "sentence": "The insect is tiny." },
+      { "word": "Ink", "emoji": "🖊️", "sentence": "The pen has ink." } ], "themeColor": "warmYellow" },
+    { "letter": "J", "uppercase": "J", "lowercase": "j", "phoneme": "/dʒ/", "sound_description": "j as in jug", "words": [
+      { "word": "Jug", "emoji": "🏺", "sentence": "The jug has water." },
+      { "word": "Jelly", "emoji": "🍮", "sentence": "I like jelly." },
+      { "word": "Jump", "emoji": "🤸", "sentence": "I can jump high." } ], "themeColor": "skyGreen" },
+    { "letter": "K", "uppercase": "K", "lowercase": "k", "phoneme": "/k/", "sound_description": "k as in kite", "words": [
+      { "word": "Kite", "emoji": "🪁", "sentence": "I fly a kite." },
+      { "word": "Kangaroo", "emoji": "🦘", "sentence": "The kangaroo jumps." },
+      { "word": "Key", "emoji": "🔑", "sentence": "This is my key." } ], "themeColor": "coralRed" },
+    { "letter": "L", "uppercase": "L", "lowercase": "l", "phoneme": "/l/", "sound_description": "l as in lion", "words": [
+      { "word": "Lion", "emoji": "🦁", "sentence": "The lion is strong." },
+      { "word": "Lemon", "emoji": "🍋", "sentence": "The lemon is sour." },
+      { "word": "Lamp", "emoji": "💡", "sentence": "The lamp gives light." } ], "themeColor": "softPurple" },
+    { "letter": "M", "uppercase": "M", "lowercase": "m", "phoneme": "/m/", "sound_description": "m as in mango", "words": [
+      { "word": "Mango", "emoji": "🥭", "sentence": "I like mango." },
+      { "word": "Monkey", "emoji": "🐒", "sentence": "The monkey eats a banana." },
+      { "word": "Moon", "emoji": "🌙", "sentence": "The moon is bright." } ], "themeColor": "warmYellow" },
+    { "letter": "N", "uppercase": "N", "lowercase": "n", "phoneme": "/n/", "sound_description": "n as in nest", "words": [
+      { "word": "Nest", "emoji": "🪺", "sentence": "The bird is in the nest." },
+      { "word": "Nose", "emoji": "👃", "sentence": "I smell with my nose." },
+      { "word": "Nurse", "emoji": "👩‍⚕️", "sentence": "The nurse helps me." } ], "themeColor": "skyGreen" },
+    { "letter": "O", "uppercase": "O", "lowercase": "o", "phoneme": "/ɒ/", "sound_description": "short o as in orange", "words": [
+      { "word": "Orange", "emoji": "🍊", "sentence": "I eat an orange." },
+      { "word": "Owl", "emoji": "🦉", "sentence": "The owl sees at night." },
+      { "word": "Octopus", "emoji": "🐙", "sentence": "The octopus has eight arms." } ], "themeColor": "coralRed" },
+    { "letter": "P", "uppercase": "P", "lowercase": "p", "phoneme": "/p/", "sound_description": "p as in parrot", "words": [
+      { "word": "Parrot", "emoji": "🦜", "sentence": "The parrot can talk." },
+      { "word": "Pencil", "emoji": "✏️", "sentence": "I write with a pencil." },
+      { "word": "Pizza", "emoji": "🍕", "sentence": "I like pizza." } ], "themeColor": "softPurple" },
+    { "letter": "Q", "uppercase": "Q", "lowercase": "q", "phoneme": "/kw/", "sound_description": "qu as in queen", "words": [
+      { "word": "Queen", "emoji": "👑", "sentence": "The queen wears a crown." },
+      { "word": "Quack", "emoji": "🦆", "sentence": "The duck says quack." },
+      { "word": "Quiz", "emoji": "❓", "sentence": "We have a quiz today." } ], "themeColor": "warmYellow" },
+    { "letter": "R", "uppercase": "R", "lowercase": "r", "phoneme": "/r/", "sound_description": "r as in rainbow", "words": [
+      { "word": "Rainbow", "emoji": "🌈", "sentence": "I see a rainbow." },
+      { "word": "Rabbit", "emoji": "🐰", "sentence": "The rabbit is soft." },
+      { "word": "Rose", "emoji": "🌹", "sentence": "The rose is red." } ], "themeColor": "skyGreen" },
+    { "letter": "S", "uppercase": "S", "lowercase": "s", "phoneme": "/s/", "sound_description": "s as in sun", "words": [
+      { "word": "Sun", "emoji": "☀️", "sentence": "The sun is bright." },
+      { "word": "Star", "emoji": "⭐", "sentence": "I see a star." },
+      { "word": "Snake", "emoji": "🐍", "sentence": "The snake is long." } ], "themeColor": "coralRed" },
+    { "letter": "T", "uppercase": "T", "lowercase": "t", "phoneme": "/t/", "sound_description": "t as in tiger", "words": [
+      { "word": "Tiger", "emoji": "🐯", "sentence": "The tiger is orange." },
+      { "word": "Tree", "emoji": "🌳", "sentence": "The tree is tall." },
+      { "word": "Train", "emoji": "🚂", "sentence": "The train goes fast." } ], "themeColor": "softPurple" },
+    { "letter": "U", "uppercase": "U", "lowercase": "u", "phoneme": "/ʌ/", "sound_description": "short u as in umbrella", "words": [
+      { "word": "Umbrella", "emoji": "☂️", "sentence": "I open my umbrella." },
+      { "word": "Up", "emoji": "⬆️", "sentence": "The bird flies up." },
+      { "word": "Under", "emoji": "⬇️", "sentence": "The cat is under the table." } ], "themeColor": "warmYellow" },
+    { "letter": "V", "uppercase": "V", "lowercase": "v", "phoneme": "/v/", "sound_description": "v as in van", "words": [
+      { "word": "Van", "emoji": "🚐", "sentence": "We go in a van." },
+      { "word": "Violin", "emoji": "🎻", "sentence": "I play the violin." },
+      { "word": "Vegetables", "emoji": "🥦", "sentence": "I eat vegetables." } ], "themeColor": "skyGreen" },
+    { "letter": "W", "uppercase": "W", "lowercase": "w", "phoneme": "/w/", "sound_description": "w as in watch", "words": [
+      { "word": "Watch", "emoji": "⌚", "sentence": "I wear a watch." },
+      { "word": "Water", "emoji": "💧", "sentence": "I drink water." },
+      { "word": "Whale", "emoji": "🐋", "sentence": "The whale is big." } ], "themeColor": "coralRed" },
+    { "letter": "X", "uppercase": "X", "lowercase": "x", "phoneme": "/ks/", "sound_description": "ks as in fox", "words": [
+      { "word": "X-ray", "emoji": "🩻", "sentence": "The doctor sees my x-ray." },
+      { "word": "Xylophone", "emoji": "🎷", "sentence": "I play the xylophone." },
+      { "word": "Fox", "emoji": "🦊", "sentence": "The fox is clever." } ], "themeColor": "softPurple" },
+    { "letter": "Y", "uppercase": "Y", "lowercase": "y", "phoneme": "/j/", "sound_description": "y as in yellow", "words": [
+      { "word": "Yellow", "emoji": "💛", "sentence": "The sun is yellow." },
+      { "word": "Yo-yo", "emoji": "🪀", "sentence": "I play with a yo-yo." },
+      { "word": "Yak", "emoji": "🐃", "sentence": "The yak has long hair." } ], "themeColor": "warmYellow" },
+    { "letter": "Z", "uppercase": "Z", "lowercase": "z", "phoneme": "/z/", "sound_description": "z as in zebra", "words": [
+      { "word": "Zebra", "emoji": "🦓", "sentence": "The zebra has stripes." },
+      { "word": "Zoo", "emoji": "🏛️", "sentence": "We go to the zoo." },
+      { "word": "Zip", "emoji": "🤐", "sentence": "I zip my bag." } ], "themeColor": "skyGreen" }
+  ]
+}
